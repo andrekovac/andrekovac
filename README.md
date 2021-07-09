@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm André - a software developer!
+<img src="https://user-images.githubusercontent.com/1945462/125114404-3a4c9a80-e0ea-11eb-8cbd-8f42f7b4e2d4.jpg" alt="banner that says André Kovac - software engineer, trainer, keynote speaker and science communicator">
 
 <!--
 **andrekovac/andrekovac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
