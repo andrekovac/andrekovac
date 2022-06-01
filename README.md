@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/1945462/125114404-3a4c9a80-e0ea-11eb-8cbd-8f42f7b4e2d4.jpg" alt="banner that says André Kovac - software engineer, trainer, keynote speaker and science communicator">
+<img src="https://user-images.githubusercontent.com/1945462/171504649-306bfc14-2a3b-4dba-8010-7db31938be18.png" alt="banner that says André Kovac - software engineer, technology trainer, keynote speaker and science communicator">
 
 <!--
 **andrekovac/andrekovac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
