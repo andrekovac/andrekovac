@@ -1,8 +1,10 @@
 <img src="https://user-images.githubusercontent.com/1945462/171504649-306bfc14-2a3b-4dba-8010-7db31938be18.png" alt="banner that says André Kovac - software engineer, technology trainer, keynote speaker and science communicator">
 
-Freelance Full-Stack Software Engineer 💻 + Technology Trainer 🎓
+<h3>Freelance Full-Stack Software Engineer 💻 and Technology Trainer 🎓</h3>
 
 Visit my homepage [andrekovac.com](https://www.andrekovac.com/) and let's connect! ✌️
+
+
 
 <!--
 **andrekovac/andrekovac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
